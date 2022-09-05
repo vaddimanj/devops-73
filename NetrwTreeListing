@@ -1,0 +1,24 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+/
+| bin/
+| cmd/
+| dev/
+| etc/
+| mingw64/
+| proc/
+| tmp/
+| usr/
+| git-bash.exe*
+| git-cmd.exe*
+| unins000.exe*
+| LICENSE.txt
+| ReleaseNotes.html
+| unins000.dat
+| unins000.msg
